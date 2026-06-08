@@ -86,6 +86,8 @@
 ### 🤖 Job Matcher *(Apr – May 2026)*
 > **MongoDB · Express.js · React.js · Node.js · Google Gemini AI**
 
+🌐 **Live Demo:** https://jobmatcherai.app/
+
 - Full-stack AI-powered resume analysis and job recommendation system
 - Used **Google Gemini AI** for ATS scoring, skill gap analysis, and personalized learning paths
 - Secure auth via **JWT + bcrypt**; resume parsing with **pdf-parse**
