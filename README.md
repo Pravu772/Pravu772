@@ -102,23 +102,13 @@
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🏆 Certifications & Awards
+ 
+| 🎖️ | Title | Issuer | Date |
+|-----|-------|--------|------|
+| 🍃 | MongoDB Associate Developer | MongoDB University | May 2025 |
+| 🥇 | Academic Excellence Award + Merit Scholarship | Kongu Vellalar Institute of Technology Trust | May 2024 |
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/MongoDB-Associate_Developer-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Academic_Excellence-Award-gold?style=for-the-badge&logo=trophy&logoColor=white" />
-
-
-</div>
-
-<br>
-
-### 🎖 Highlights
-
-- 🍃 MongoDB Associate Developer Certification (2025)
-- 🥇 Academic Excellence Award
 
 ---
 
