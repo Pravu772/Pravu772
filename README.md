@@ -135,6 +135,22 @@
 
 ---
 
+## 🧩 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Pravinm01?theme=dark&font=Fira%20Code&ext=activity" width="55%" alt="LeetCode Stats Card"/>
+
+</div>
+
+<div align="center">
+
+[![LeetCode](https://leetcode-stats-six.vercel.app/api?username=Pravinm01&theme=dark)](https://leetcode.com/u/Pravinm01/)
+
+</div>
+
+---
+
 
 
 <div align="center">
