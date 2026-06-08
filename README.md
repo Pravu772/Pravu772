@@ -135,26 +135,7 @@
 
 ---
 
-## 🌱 Currently Learning
 
-<div align="center">
-
-![LLM Fine-tuning](https://img.shields.io/badge/LLM%20Fine--tuning-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-FF6B6B?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![System Design](https://img.shields.io/badge/System%20Design-0F172A?style=for-the-badge&logo=blueprint&logoColor=white)
-
-</div>
-
----
-
-## 👀 Profile Views
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Pravu772&style=for-the-badge&color=6EE7F7&label=PROFILE+VIEWS)
-
-</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
