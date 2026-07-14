@@ -12,7 +12,7 @@
 
 > **AI & Data Science student** building full-stack applications and exploring modern AI technologies.
 
-- 🎓 B.Tech in **AI & Data Science** @ Kongu Engineering College *(2023 – 2027)* · CGPA: **7.77**
+- 🎓 B.Tech in **AI & Data Science** @ Kongu Engineering College *(2023 – 2027)* · CGPA: **7.81**
 - 💼 Ex-Intern @ **SAN Technovation Pvt. Ltd** — built a resume extraction pipeline processing 1000+ resumes
 - 🏆 **MongoDB Associate Developer** certified (MongoDB University, May 2025)
 - 🥇 **Academic Excellence Award** & Merit Scholarship — Kongu Vellalar Institute of Technology Trust (2024)
